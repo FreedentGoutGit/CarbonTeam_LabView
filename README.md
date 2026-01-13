@@ -1,3 +1,9 @@
+<div align="center">
+
+![Asterix prototype](Media/LabView%20command%20interface.png)
+
+</div>
+
 # Asterix_control
 This repository contains the necessary LabVIEW and Arduino IDE (>2.0) files necessary to run the EPFL Carbon Team Asterix prototype.
 
