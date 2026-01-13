@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For Parse_SCPI Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Parse_SCPI	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Set_IDN	KEYWORD2
+Register_command	KEYWORD2
+Ethernet_begin	KEYWORD2
+Serial_begin	KEYWORD2
+UseNativePort	KEYWORD2
+UseProgrammingPort	KEYWORD2
+Command_received	KEYWORD2
+Get_command	KEYWORD2
+Execute_command	KEYWORD2
+reset	KEYWORD2
+Get_command_index	KEYWORD2
+Get_numeric_index	KEYWORD2
+Get_numeric_argument	KEYWORD2
+Get_text_argument	KEYWORD2
+Reply	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
